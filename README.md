@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://arielguerrero.es/GitBanner.png" alt="Card header"/>
+  <img src="https://arielguerrero.es/GitBannerBlue.png" alt="Card header"/>
 </div>
 <div>
 
@@ -57,10 +57,10 @@
 
   ## 📊 &nbsp;My activities
   <a href="https://github.com/agueriv">
-    <img width=450 height=170 align="center" alt="Ariel Guerrero" src="https://github-readme-stats.vercel.app/api?username=agueriv&theme=shadow_red&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="Ariel Guerrero" src="https://github-readme-stats.vercel.app/api?username=agueriv&theme=algolia&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/agueriv">
-    <img align="center" alt="Ariel Guerrero" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agueriv&theme=shadow_red&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="Ariel Guerrero" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agueriv&theme=algolia&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 
   <br>
