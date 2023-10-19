@@ -3,7 +3,7 @@
 </div>
 <div>
 
-  ## 🧭 &nbsp;About Me
+  ## 🧭 &nbsp;<span style="color: red">About Me</span>
 
   - 📚 Web Application Development Student in Granada.
   - 🔭 Focused on **myself** and my **passion**.
