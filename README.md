@@ -55,8 +55,10 @@
    <img src="https://img.shields.io/badge/davinci resolve%20-%23FBFFA3.svg?&style=for-the-badge&logoColor=white">
    
 <br>
-
+<br>
 </div>
+
+
 
 <div>
 
@@ -67,7 +69,7 @@
   <a href="https://github.com/agueriv">
     <img align="center" alt="Ariel Guerrero" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agueriv&theme=algolia&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-
+<br>
   <br>
 </div>
 
