@@ -1,82 +1,147 @@
 <div align="center">
-  <img src="https://arielguerrero.es/GitBanBlu.png" alt="Card header"/>
+  <img height="200" src="https://arielguerrero.es/GitBanBlu.png"  />
 </div>
 
 <div align="center">
   <a href="https://arielguerrero.es"><img src="https://img.shields.io/badge/My Web-000000?style=for-the-badge&logo=Safari&logoColor=white&link=https://arielguerrero.es"/></a>
 </div>
 
-<div>
+###
 
-  ## 🧭 &nbsp;About Me
+<h2 align="left">🧭 About me</h2>
 
-  - 📚 Web Developer in Málaga
+###
 
-  - 🔭 Focused on **myself** and my **passion**.
+- 📚 Web Developer in Málaga
 
-  - 🌱 I am constantly learning about **new technologies** and methodologies.
+###
 
-  - 💬 I am positive, enthusiastic, a good teammate and I always give **my best**.
+- 🔭 Focused on **myself** and my **passion**
 
-  - ⚡ **Motorcycle** and **car** lover. **Biker life!!**
+###
 
-  <br>
-  
+- 🌱 I am constantly learning about **new technologies** and methodologies
 
-</div>
+###
 
-<div>
+- 💬 I am positive, enthusiastic, a good teammate and I always give **my best**
 
-  ## 📚 &nbsp;Currently studying
+###
 
-  - Angular
-  - Astro
-  - .NET Framework
+- ⚡ **Motorbike** and **car** lover
 
+###
 <br>
 
+<h2 align="left">🛠️ Tech skills</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=apollo" height="30" alt="apollographql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
 </div>
 
-<div>
-
-  ## 🛠️ &nbsp;My Tech Stacks
-
-   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
-   <img src="https://img.shields.io/badge/wordpress%20-%2327799E.svg?&style=for-the-badge&logo=wordpress&logoColor=white">
-   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-   <img src="https://img.shields.io/badge/React JS%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%61DAFB">
-   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
-   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-   
+###
 <br>
-<br>
+
+<h2 align="left">🧠 Other skills</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vagrant/1868F2" height="30" alt="vagrant logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="nginx logo"  />
 </div>
 
+###
+<br>
 
+<h2 align="left">📊 My activity</h2>
 
-<div>
+###
 
-  ## 📊 &nbsp;My activities
-  <a href="https://github.com/agueriv">
-    <img width=450 height=170 align="center" alt="Ariel Guerrero" src="https://github-readme-stats.vercel.app/api?username=agueriv&theme=algolia&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=agueriv&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agueriv&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=true&order=2" height="160" alt="languages graph"  />
+</div>
+
+###
+<br>
+
+<h2 align="left">🔗​ My socials</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/arielguerrerorivas/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/agueriv">
-    <img align="center" alt="Ariel Guerrero" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agueriv&theme=algolia&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="mailto:rivasguerreroariel@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="30" alt="gmail logo"  />
   </a>
-<br>
-  <br>
+  <a href="https://www.instagram.com/_ar1elgr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/ArielGR12" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="30" alt="twitter logo"  />
+  </a>
 </div>
 
-<div>
-
-  ## 📫 &nbsp;My Contacts
-
-<!--[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/_ar1elgr/)&nbsp;-->
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_ar1elgr/)](https://www.instagram.com/_ar1elgr/)&nbsp;
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ArielGR12)](https://twitter.com/ArielGR12)&nbsp;
-  [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/645025408/?text=%27Hola%20Ariel,%20te%20he%20visto%20en%20GitHub!!%27)](https://wa.me/645025408/?text=%27Hola%20Ariel,%20te%20he%20visto%20en%20GitHub!!%27)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rivasguerreroariel@gmail.com)](mailto:rivasguerreroariel@gmail.com)&nbsp;
-</div>
+###
